@@ -28,7 +28,7 @@ Além da base do evento, implementei diversas melhorias para tornar o site únic
 
 ## 🔗 Links
 
-- **Site Oficial**: [carlossoares.dev](https://carlossoares.dev)
+- **Site Oficial**: https://carlossoaresdev.github.io/projeto-dbz/
 - **Meu Repositório (Fork)**: [CarlosSoaresDev/projeto-dbz](https://github.com/CarlosSoaresDev/projeto-dbz)
 - **Projeto Original**: [devemdobro/projeto-dbz-szpc](https://github.com/devemdobro/projeto-dbz-szpc)
 
